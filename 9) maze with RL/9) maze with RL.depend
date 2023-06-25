@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649509281 source:c:\users\juho9\onedrive\바탕 화면\양기주 자료구조 코드블럭\9) maze with rl\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+
