@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1646891649 source:c:\users\juho9\onedrive\바탕 화면\양기주 자료구조\first_c_file\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1646891649 source:c:\users\juho9\onedrive\바탕 화면\양기주 자료구조 코드블럭\3) grade process\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
